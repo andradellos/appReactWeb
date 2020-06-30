@@ -1,2 +1,2 @@
 # appReactWeb
-App web criada com React React Native, Next , javascript Node
+App web criada com React React Native, Next JS , javascript Node
